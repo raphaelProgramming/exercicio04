@@ -1,0 +1,60 @@
+
+/* 
+    Author : Raphael Moreira
+*/
+
+body {
+    background-color: white;
+}
+center {
+    border: solid 2px #f7f7f7;
+    background-color: #F5F7FA;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+h4,h1 {
+    color: #48CFAD;
+    font-family: Arial;
+}
+.text {
+    height: 30px;
+    width: 60%;
+}
+.operacoes {
+    width: 20px;;
+    height: 25px; 
+}
+.enviar {
+    height: 30px;
+    width: auto;
+    background-color: #FC6E51;
+    color: white;
+    font-size: 16px;
+}
+.div-operacoes {
+    width: 55%;
+    text-align: left;
+}
+.tabuada {   
+    background-color: #4A89DC;
+    font-size: 16px;
+    color: white;
+    height: 20px;
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+    width: 50%;
+    border-radius: 5px;
+}
+.tab {
+    background-color: #FC6E51;
+    font-size: 16px;
+    color: white;
+    height: 20px;
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+    margin-left: 20px;
+    width: 20%;
+    border-radius: 5px;
+    float: left;
+}
